@@ -1,0 +1,38 @@
+[
+    {
+      "title": "HTML",
+      "imageSrc": "skills/html.png"
+    },
+    {
+      "title": "CSS",
+      "imageSrc": "skills/css.png"
+    },
+    {
+      "title": "React",
+      "imageSrc": "skills/react.png"
+    },
+    {
+      "title": "Node",
+      "imageSrc": "skills/node.png"
+    },
+    {
+      "title": "Java",
+      "imageSrc": "skills/java1.png"
+    },
+    {
+      "title": "MongoDB",
+      "imageSrc": "skills/mongodb.png"
+    },
+    {
+      "title": "Spring Boot",
+      "imageSrc": "skills/spring.png"
+    },
+    {
+      "title": "Power BI",
+      "imageSrc": "skills/PowerBI.png"
+    },
+    {
+      "title": "QlikView",
+      "imageSrc": "skills/qlikview.png"
+    }
+  ]
