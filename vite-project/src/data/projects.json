@@ -5,7 +5,7 @@
       "description": "Developed and maintained Java applications, ensuring efficient and secure code practices.",
       "skills": ["Java", "Struts2", "SpringBoot"],
       "demo": "https://www.example.com",
-      "source": "https://github.com/rahulnimbalkar23/"
+      "source": "https://github.com/rahulnimbalkar23/MyPortfolio-React/"
     },
     {
       "title": "QlikView and PowerBI",
@@ -13,7 +13,7 @@
       "description": "Utilized Power BI and QlikView to create interactive and visually compelling dashboards, providing actionable insights for stakeholders.",
       "skills": ["QlikView", "PowerBI"],
       "demo": "https://www.example.com",
-      "source": "https://github.com/rahulnimbalkar23/"
+      "source": "https://github.com/rahulnimbalkar23/MyPortfolio-React/"
     },
     {
       "title": "Portfolio",
@@ -21,7 +21,7 @@
       "description": "This is a project made to learn the latest languages by building portfolio an app.",
       "skills": ["React", "HTML", "CSS"],
       "demo": "https://www.example.com",
-      "source": "https://github.com/rahulnimbalkar23/"
+      "source": "https://github.com/rahulnimbalkar23/MyPortfolio-React/"
     }
   ]
   

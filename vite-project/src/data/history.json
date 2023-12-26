@@ -1,4 +1,23 @@
 [
+  {
+    "role": "Data Analyst",
+    "organisation": "TCS",
+    "startDate": "Jan, 2022",
+    "endDate": "Present",
+    "experiences": [
+      "Worked on different BI tools",
+      "Helped create Dashboard and report"],
+    "imageSrc": "history/tcs.png"
+  },
+
+  {
+    "role": "FrontEnd  Developer",
+    "organisation": "TCS",
+    "startDate": "Jan, 2021",
+    "endDate": "Present",
+    "experiences": ["Worked on frontend", "Designed the webpages and API's"],
+    "imageSrc": "history/tcs.png"
+  },
     {
       "role": "Software Engineer",
       "organisation": "TCS",
@@ -6,24 +25,7 @@
       "endDate": "Jan, 2022",
       "experiences": ["Worked on Java Application", "Reduced load times by 50%"],
       "imageSrc": "history/tcs.png"
-    },
-    {
-      "role": "BI Developer",
-      "organisation": "TCS",
-      "startDate": "Jan, 2021",
-      "endDate": "Present",
-      "experiences": ["Worked on powerBI,Qlikview ", "Designed the dashboard and report"],
-      "imageSrc": "history/tcs.png"
-    },
-    {
-      "role": "Data Analyst",
-      "organisation": "TCS",
-      "startDate": "Jan, 2022",
-      "endDate": "Present",
-      "experiences": [
-        "Worked on different BI tools",
-        "Helped create Dashboard and report"
-      ],
-      "imageSrc": "history/tcs.png"
     }
+    
+    
   ]

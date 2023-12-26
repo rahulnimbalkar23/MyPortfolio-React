@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 
-import styles from "./Navabar.module.css";
+import styles from "./Navbar.module.css";
 import { getImageUrl } from "../../utils";
 
 export const Navbar = () => {
@@ -36,7 +36,7 @@ export const Navbar = () => {
             <a href="#projects">Projects</a>
           </li>
           <li>
-            <a href="#about">Contact</a>
+            <a href="#contact">Contact</a>
           </li>
         </ul>
       </div>
